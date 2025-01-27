@@ -1,5 +1,5 @@
 using System;
-class csharpsyntax {
+class Csharpsyntax {
   public static void csharpsyntax() {
     const string correct_username = "Shoaib";
     const string correct_password = "shoaib123";
