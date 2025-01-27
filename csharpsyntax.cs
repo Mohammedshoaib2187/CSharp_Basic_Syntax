@@ -1,6 +1,6 @@
 using System;
 class csharpsyntax {
-  public static void Main() {
+  public static void csharpsyntax() {
     const string correct_username = "Shoaib";
     const string correct_password = "shoaib123";
     Console.WriteLine("Enter username : ");
